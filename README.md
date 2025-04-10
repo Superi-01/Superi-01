@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${speech}&color=auto&height=${200}&section=header&text=HelloWorld!&fontSize=${50}&animation=${blinking}&fontColor=000000&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=${speech}&color=auto&height=${200}&section=header&text=HelloWorld!&fontSize=${50}&animation=${blinking}&fontColor=000000&fontSize=10)
 ## Hi there 👋
 My name is URI-LIM
 
