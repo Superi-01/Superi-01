@@ -17,19 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superi-01&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superi-01&layout=compact&theme=shadow_green)
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Superi-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superi-01&layout=compact&hide_title=true&theme=shadow_green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superi-01&layout=compact&hide_title=ture&theme=shadow_green" />
   </a>
 </p>
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Superi-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superi-01&theme=shadow_green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superi-01&hide_title=ture&theme=shadow_green" />
   </a>
 </p>
 
