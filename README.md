@@ -13,6 +13,6 @@ My name is URI-LIM
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Superi-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superi-01&hide_title=true&show_icons=true&theme=vision-friendly-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Superi-01&hide_title=true&show_icons=true&theme=highcontrast" />
   </a>
 </p>
