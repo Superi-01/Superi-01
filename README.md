@@ -6,7 +6,7 @@ My name is URI-LIM
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Superi-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superi-01&layout=compact&hide_title=true&show_icons=true&theme=vision-friendly-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superi-01&layout=compact&hide_title=true&show_icons=true&theme=highcontrast" />
   </a>
 </p>
 
