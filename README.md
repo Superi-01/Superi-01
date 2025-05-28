@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=${speech}&color=D8863D&height=${200}&section=header&text=HelloWorld!&fontSize=${30}&animation=blinking&fontColor=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Superi-01&theme=radical&hide_border=true)
+![Visitors](https://komarev.com/ghpvc/?username=Superi-01&color=orange)
+
 
 
 ## Hi there 👋  
