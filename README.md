@@ -4,7 +4,7 @@
 ## Hi there 👋  
 My name is URI-LIM
 
-![see](https://komarev.com/ghpvc/?username=Superi-01&label=see&color=orange) <-- how many 👁 ?
+![see](https://komarev.com/ghpvc/?username=Superi-01&label=see&color=orange) ←🠔⟵⟸❰❰❰ how many 👁 ?
 
 
 
