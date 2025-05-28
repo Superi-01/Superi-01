@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=${speech}&color=D8863D&height=${200}&section=header&text=HelloWorld!&fontSize=${30}&animation=blinking&fontColor=ffffff)
-![Visitors](https://komarev.com/ghpvc/?username=Superi-01&color=orange)
-
 
 
 ## Hi there 👋  
 My name is URI-LIM
+![Visitors](https://komarev.com/ghpvc/?username=Superi-01&color=orange)
+
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
