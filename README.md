@@ -3,7 +3,9 @@
 
 ## Hi there 👋  
 My name is URI-LIM
-![Visitors](https://komarev.com/ghpvc/?username=Superi-01&color=orange)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Superi-01&label=see%20%3C--%20how%20many%20👁&color=orange)
+
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
