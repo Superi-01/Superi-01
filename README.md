@@ -4,7 +4,8 @@
 ## Hi there 👋  
 My name is URI-LIM
 
-![Profile Views](https://komarev.com/ghpvc/?username=Superi-01&label=👁%20<--%20how%20many&color=orange)
+![see](https://komarev.com/ghpvc/?username=Superi-01&label=see&color=orange) <-- how many 👁 ?
+
 
 
 
