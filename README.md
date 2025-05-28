@@ -4,7 +4,7 @@
 ## Hi there 👋  
 My name is URI-LIM
 
-![see](https://komarev.com/ghpvc/?username=Superi-01&label=see&color=orange)   ⇐ who's watching ? 👁 ? ( -_・)? ( -_👁)?
+![see](https://komarev.com/ghpvc/?username=Superi-01&label=see&color=orange)   ⇐ who's watching ? ( -_・)?
 
 
 
